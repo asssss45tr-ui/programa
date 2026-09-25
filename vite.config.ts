@@ -150,11 +150,21 @@ export default defineConfig(({ command, isPreview }) => ({
     host: "0.0.0.0",
     port: 8080,
     strictPort: true,
+
+allowedHosts: [
+    'programa-1.onrender.com',
+    '.onrender.com',
+
+
   },
   preview: {
-    host: "127.0.0.1",
+    host: "0.0.0.0",
     port: 8081,
     strictPort: true,
+
+   'programa-1.onrender.com',
+    '.onrender.com',
+
   },
   resolve: { tsconfigPaths: true },
   plugins: [
