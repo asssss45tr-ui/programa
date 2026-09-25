@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/login",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "مدیریت فروشگاه",
+      "hasCanvas": false,
+      "bodyTextLen": 123,
+      "bodyTextHash": "741b022e3edf8757fb290ab63f4b0b75cc4be81c63e375dd68957da8e66ea562",
+      "bodyTextPrefix": "مدیریت فروشگاه صندوق، انبار و کالا — ورود همکاران ورود با گوگلور",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "مدیریت فروشگاه",
+      "hasCanvas": false,
+      "bodyTextLen": 123,
+      "bodyTextHash": "741b022e3edf8757fb290ab63f4b0b75cc4be81c63e375dd68957da8e66ea562",
+      "bodyTextPrefix": "مدیریت فروشگاه صندوق، انبار و کالا — ورود همکاران ورود با گوگلور",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/login-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/login.json"
+}
